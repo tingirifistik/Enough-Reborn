@@ -1,0 +1,5 @@
+colorama==0.3.9
+requests==2.26.0
+beautifulsoup4==4.10.0
+discord.py==2.1.0
+python_telegram_bot==20.0
