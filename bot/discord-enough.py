@@ -25,7 +25,7 @@ async def on_message(message):
     if len(message.content.split(" ")) == 2 and message.content.split(" ")[0] == "*sms":
         if len(message.content.split(" ")[1]) == 10:
             telno = message.content.split(" ")[1]
-            embed=discord.Embed(title="SMS Bomber (+90)", description=(f"{adet} adet SMS Gönderiliyor --> {telno}\n{message.author.mention}"), color=0x001eff)
+            embed=discord.Embed(title="SMS Bomber (+905438036559)", description=(f"{adet} adet SMS Gönderiliyor --> {telno}\n{message.author.mention}"), color=0x001eff)
             embed.set_thumbnail(url=gif)
             await message.channel.send(embed=embed)
             sms = SendSms(telno, "")
