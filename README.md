@@ -1,4 +1,6 @@
 # Enough
+_It's enough to make a man go crazy_
+<br><br>
 [![Hits](https://hits.sh/github.com/tingirifistik/Enough-Reborn.svg?label=views&color=007ec6)](https://hits.sh/github.com/tingirifistik/Enough-Reborn/)
 
 <img src=https://github.com/tingirifistik/Enough-Reborn/assets/51286195/fc10a910-b4a4-4ff2-8058-62767b9af30f height="200px" width="400px"/>
@@ -15,7 +17,7 @@ python3 enough.py
 ```
 
 
-<h2>Discord</h2>
+<h2>Discord Bot</h2>
 
 Bot'un çalışabilmesi için 'Privileged Gateway Intents' seçeneklerinin hepsinin aktif olması gerekmektedir.
 
